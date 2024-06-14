@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnuragA1674
 - 👀 I’m interested in Artificial Intelligence,Machine Learning,Neural Networks,Market Analysis 
-- 🌱 I’m currently learning JS,HTML
+- 🌱 I’m currently learning Python,JS,HTML
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
